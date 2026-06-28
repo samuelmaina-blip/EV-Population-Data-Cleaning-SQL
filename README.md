@@ -1,6 +1,6 @@
 # Electric Vehicle Population Data: End-to-End SQL Engineering & Power BI Analytics
 
-![EV Dashboard Preview](Screenshot%20(68).png)
+![EV Dashboard Preview](Screenshot%20(112).png)
 
 ## Project Overview
 This project establishes a robust end-to-end data pipeline, tracking the architectural isolation and structural transformation of an extensive Electric Vehicle (EV) dataset in SQL, concluding with an interactive executive dashboard in Power BI. 
@@ -41,7 +41,7 @@ Once optimized via SQL, the dataset was connected downstream to Power BI. Becaus
 
 ### Key Analytical Deliverables & Visual Architecture
 * **Executive KPI Cards:** Positioned prominently on the left panel to provide immediate situational context, breaking down total marketplace scale: **150,482 Total EVs**, **37 Manufacturers**, and **127 Distinct Car Models**.
-* **Adoption Trend Engine:** A clean timeline chart tracing the velocity of EV adoption over time (1997–2024), effectively visualizing market acceleration patterns.
+* **Vehicle Manufacture Year Profile:** An age-distribution timeline mapping active registered vehicles by their specific manufacture year (1997–2024), precisely detailing the manufacturing era footprint of the surviving EV ecosystem.
 * **MSRP Distribution Framework:** Rather than using a cluttered, unaggregated price chart, financial metrics were categorized into clean corporate price brackets (*Lower than 50k*, *Above 50k*, etc.) via a structured matrix view to immediately pinpoint market pricing tiers.
 * **Technical Range Profiling:** A comparative horizontal bar chart evaluating the average electric range variation across vehicle types, showing Battery Electric Vehicles (BEVs) leading at an average of **78.61 miles** vs. Plug-in Hybrid Electric Vehicles (PHEVs) at **30.66 miles**.
 * **Geographic Density Mapping:** Integrated an interactive, color-coded geographic map component detailing the density and volume concentration of active vehicles by state and county bounds.
