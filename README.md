@@ -1,6 +1,6 @@
 # Electric Vehicle Population Data: End-to-End SQL Engineering & Power BI Analytics
 
-![EV Dashboard Preview](Screenshot%20(112).png)
+![EV Dashboard Preview](Screenshot%20(242).png)
 
 ## Project Overview
 This project establishes a robust end-to-end data pipeline, tracking the architectural isolation and structural transformation of an extensive Electric Vehicle (EV) dataset in SQL, concluding with an interactive executive dashboard in Power BI. 
